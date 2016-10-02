@@ -1,0 +1,39 @@
+{
+  "name": "bem",
+  "version": "2.0.0",
+  "license": "MPL-2.0",
+  "description": "BEM Tools",
+  "homepage": "https://bem.info/toolbox/bem-tools/",
+  "author": [
+    "Vladimir Grinenko <i@tadatuta.com> (https://github.com/tadatuta)",
+    "Vitaly Harisov <vitaly@harisov.name> (https://github.com/vithar)"
+  ],
+  "maintainers": [
+    "Vladimir Grinenko <i@tadatuta.com> (https://github.com/tadatuta)",
+    "Vitaly Harisov <vitaly@harisov.name> (https://github.com/vithar)"
+  ],
+  "contributors": [
+    "Vladimir Grinenko <i@tadatuta.com> (https://github.com/tadatuta)",
+    "Vitaly Harisov <vitaly@harisov.name> (https://github.com/vithar)"
+  ],
+  "bugs": {
+    "url": "http://github.com/bem-tools/bem-tools/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem-tools/bem-tools.git"
+  },
+  "dependencies": {
+    "bem-tools-core": "^0.0.1",
+    "bem-tools-create": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "bem",
+    "bem-tools",
+    "bem create",
+    "bem-tools-create"
+  ]
+}
